@@ -1,14 +1,12 @@
 ![E Commerce Website - Google Chrome 15_01_2025 2_52_25 pm](https://github.com/user-attachments/assets/09599f82-0a03-4b84-a982-25bbc23a0a98)
 
-![E Commerce Website - Google Chrome 15_01_2025 2_52_25 pm](https://github.com/user-attachments/assets/b759495d-4142-49e2-b0bd-8e2288a6b9f7)
+
 
 ![E Commerce Website - Google Chrome 15_01_2025 2_46_08 pm](https://github.com/user-attachments/assets/35691680-d281-42f2-a095-b05b9f49cfee)
 
-![E Commerce Website - Google Chrome 15_01_2025 2_46_08 pm](https://github.com/user-attachments/assets/613db22a-b43d-40d0-8ec1-721507b28575)
 
 ![E Commerce Website - Google Chrome 15_01_2025 2_46_37 pm](https://github.com/user-attachments/assets/e3d531d3-e122-4776-b154-e75d46eebc5d)
 
-![E Commerce Website - Google Chrome 15_01_2025 2_46_37 pm](https://github.com/user-attachments/assets/9f7d724d-3883-4d9d-8243-468b4a2a9b62)
 
 
 
@@ -19,15 +17,14 @@
 
 ![dedsec](https://github.com/user-attachments/assets/3e74859b-328f-4d8c-b627-3c96bef58912)
 
-![dedsec](https://github.com/user-attachments/assets/a4ac73b1-9b23-4822-b962-00afadeb3a56)
 
 ![G](https://github.com/user-attachments/assets/c05e66bb-059f-4446-9212-1c2a52aa4c75)
 
-![G](https://github.com/user-attachments/assets/337ecaa9-780e-4572-bcc4-3ff35c13b0ef)
 
 ![kelvin](https://github.com/user-attachments/assets/a945dfac-f099-4184-aa9d-f951d818f6f2)
-![kelvin](https://github.com/user-attachments/assets/d58e5e80-0d1d-4f20-96a6-cc0a74670cd7)
+
 ![paakow](https://github.com/user-attachments/assets/e53c4eb8-1d48-432f-9a41-640b998fec99)
+
 ![sam](https://github.com/user-attachments/assets/54a0bbc4-2b82-4bb3-b5ed-b8a2853cfc09)
 
 
