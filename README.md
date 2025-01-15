@@ -48,17 +48,6 @@ To set up and run the project locally, follow these steps:
 NOTE: The Docs123.pdf contain the documentaion structure for our project
 
 
-![Ecommerce1](https://github.com/user-attachments/assets/74d8db1f-bdc3-407f-a95f-c78c2b46d52f)
-
-![Ecommerce2](https://github.com/user-attachments/assets/44d2bc5e-9e5a-4669-98c7-5b722c0d1e34)
-
-![Ecommerce3](https://github.com/user-attachments/assets/f8c6d284-bd85-4199-94aa-1140b6bd6ce8)
-
-![Ecommerce4](https://github.com/user-attachments/assets/2bfc6b02-6ff8-4705-9b38-f7e31aafa357)
-
-![Ecommerce5](https://github.com/user-attachments/assets/f5046fae-e8a3-44a0-bd46-1fadbc6fdc79)
-
-![Ecommerce6](https://github.com/user-attachments/assets/b1145de9-9224-42fe-aec2-b9b02f14c46e)
 
 
 
