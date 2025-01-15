@@ -9,6 +9,9 @@
 
 ![joseph](https://github.com/user-attachments/assets/3d5d1520-158e-4ba1-b25a-503096f5ad61)
 
+![sam](https://github.com/user-attachments/assets/34c1fcbe-346e-432d-b403-164ef261f161)
+
+
 
 
 
@@ -38,6 +41,11 @@ To set up and run the project locally, follow these steps:
 
 7. Start the development server:
    npm run dev
+
+NOTE: The Docs123.pdf contain the documentaion structure for our project
+
+
+
 
  
   
