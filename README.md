@@ -45,7 +45,7 @@ To set up and run the project locally, follow these steps:
 7. Start the development server:
    npm run dev
 
-NOTE: The Docs123.pdf contain the documentaion structure for our project
+NOTE: The DocStruc.pdf contain the documentaion structure for our project
 
 
 ![Ecommerce1](https://github.com/user-attachments/assets/f3fc1c9a-ff23-4784-83a8-0367c7e03f7f)
