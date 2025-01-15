@@ -56,6 +56,9 @@ NOTE: The Docs123.pdf contain the documentaion structure for our project
 
 ![Ecommerce7](https://github.com/user-attachments/assets/d4069599-688e-469a-a3f3-79fb3097b688)
 
+![Ecommerce8](https://github.com/user-attachments/assets/f5e043aa-8c71-4a7f-b1df-bd33d8276c56)
+
+
 
 
 
