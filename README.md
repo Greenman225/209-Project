@@ -48,6 +48,7 @@ To set up and run the project locally, follow these steps:
 NOTE: The Docs123.pdf contain the documentaion structure for our project
 
 
+![E Commerce Website - Google Chrome 15_01_2025 2_52_25 pm](https://github.com/user-attachments/assets/a5498579-73e4-4bf3-9eb2-b7de77ebc357)
 
 
 
