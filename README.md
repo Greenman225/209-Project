@@ -1,7 +1,5 @@
-Michael Anarfo (DedSec)
-![dedsec](https://github.com/user-attachments/assets/2df9c572-6d6a-47e0-aae4-f582a970d817)
 
-Ewura
+![dedsec](https://github.com/user-attachments/assets/2df9c572-6d6a-47e0-aae4-f582a970d817)
 
 ![ewura](https://github.com/user-attachments/assets/42b0ee23-89d0-4482-a947-c41c54a6aa66)
 
