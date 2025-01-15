@@ -32,17 +32,16 @@ Kelvin
 
 ![paakow](https://github.com/user-attachments/assets/e53c4eb8-1d48-432f-9a41-640b998fec99)
 
-Paakow
+
 ![sam](https://github.com/user-attachments/assets/54a0bbc4-2b82-4bb3-b5ed-b8a2853cfc09)
-Sam
+
 
 ![ewura](https://github.com/user-attachments/assets/4126a32a-00c2-4580-ae7a-dd35fed352cf)
 
 
-Ewura
+
 ![mattew](https://github.com/user-attachments/assets/d5f3be8d-5fc7-40ea-b8b3-3cd6cacb8b28)
 
-Mattew
 
 
 
