@@ -7,7 +7,7 @@
 
 To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
-   git clone https://github.com/Greenman225/Project_Work.git
+   git clone https://github.com/Greenman225/209_Project.git
 
 2. cd Project_Work:
    cd E-Commerce-Website
