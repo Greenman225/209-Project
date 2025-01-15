@@ -28,7 +28,7 @@ To set up and run the project locally, follow these steps:
    git clone https://github.com/Greenman225/209_Project.git
 
 2. cd Project_Work:
-   cd E-Commerce-Website
+   cd 209_Project
 
 3. Install the project dependencies:
    npm install
